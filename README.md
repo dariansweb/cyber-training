@@ -1,5 +1,3 @@
----
-
 # Red ↔ Blue Web Security Curriculum — Overview
 
 **What this is:** an interactive, single-page curriculum (the main `page.tsx`) that presents a **mirrored Web Security course** from two angles:
